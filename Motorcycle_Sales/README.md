@@ -13,6 +13,7 @@ Working on behalf of a company that sells motorcycle parts, you'll dig into thei
        - warehouse, and
        - net_revenue: the sum of total minus the sum of payment_fee.
    - The results should be sorted by product_line and month, followed by net_revenue in descending order.
+
 **Note:** Please also ensure that you do not change the name of the DataFrame that the query result will be saved as - creating new cells in the workbook will produce a DataFrame with a different name. Make sure that your final solution uses the names provided: revenue_by_product_line (see image below).
 
 ## Files in the Repository
