@@ -1,1 +1,20 @@
+# Analyzing Motorcycle Part Sales
 
+## Background Information
+Working on behalf of a company that sells motorcycle parts, you'll dig into their data to help them understand their revenue streams. You'll build up a query to find out how much net revenue they are generating across their product lines, segregating by date and warehouse.
+
+## Data
+
+## Aims
+- Find out how much Wholesale net revenue each product_line generated per month per warehouse in the dataset.
+   - The query should be saved as revenue_by_product_line using the SQL cell provided, and contain the following:
+       - product_line,
+       - month: displayed as 'June', 'July', and 'August',
+       - warehouse, and
+       - net_revenue: the sum of total minus the sum of payment_fee.
+   - The results should be sorted by product_line and month, followed by net_revenue in descending order.
+**Note:** Please also ensure that you do not change the name of the DataFrame that the query result will be saved as - creating new cells in the workbook will produce a DataFrame with a different name. Make sure that your final solution uses the names provided: revenue_by_product_line (see image below).
+
+## Files in the Repository
+- Jupyter Notebook - notebook.ipynb
+- jpg image file - motorcycle.jpg
