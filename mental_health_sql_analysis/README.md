@@ -29,6 +29,7 @@ The analysis is based on survey data collected by a Japanese international unive
 ---
 
 ## Project Snapshot
+
 - **Domain:** Education & Mental Health  
 - **Data Type:** Survey data  
 - **Population:** International university students  

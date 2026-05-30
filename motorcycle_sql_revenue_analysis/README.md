@@ -1,5 +1,10 @@
 # Motorcycle Wholesale Revenue Analysis
 
+![SQL](https://img.shields.io/badge/SQL-PostgreSQL-blue)
+![Case Study](https://img.shields.io/badge/Project-Case%20Study-brightgreen)
+![Data Analysis](https://img.shields.io/badge/Focus-Data%20Analysis-orange)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+
 **SQL Case Study | 2025**
 
 ---
