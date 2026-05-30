@@ -21,7 +21,7 @@ The goal of this analysis is to understand **true profitability** by calculating
 - Time (month)  
  
 <p align="center">
-  <img src="assets/motorcycle.jpg" width="600">
+  <img src="motorcycle_sql_revenue_analysis/assets/motorcycle.jpg" width="600">
 </p>
 
 > This project was completed as part of a structured learning portfolio.  

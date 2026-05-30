@@ -20,7 +20,7 @@ This project analyses mental health outcomes among international university stud
 The analysis is based on survey data collected by a Japanese international university and focuses exclusively on international students, allowing for targeted insight into their experiences over time.
 
 <p align="center">
-  <img src="assets/mentalhealth.jpg" width="600">
+  <img src="mental_health_sql_analysis/assets/mentalhealth.jpg" width="600">
 </p>
 
 > This project was completed as part of a DataCamp learning portfolio.  
