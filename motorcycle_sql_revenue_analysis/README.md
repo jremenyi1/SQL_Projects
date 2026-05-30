@@ -9,11 +9,28 @@
 This project analyses wholesale sales performance for a motorcycle parts company operating across three warehouses:  
 **North, Central, and West**.
 
-The goal is to understand **true profitability** by calculating net revenue after payment fees and breaking results down by:
+The goal of this analysis is to understand **true profitability** by calculating net revenue after payment fees and identifying how performance varies across:
 
-- Product line  
-- Month  
-- Warehouse  
+- Warehouses
+- Product lines 
+- Time (month)  
+ 
+<p align="center">
+  <img src="assets/motorcycle.jpg" width="600">
+</p>
+
+> This project was completed as part of a structured learning portfolio.  
+> All analysis, SQL queries, and interpretations were independently designed and written by me.
+
+---
+
+## Project Snapshot
+
+- **Domain:** Automotive Sales Analytics  
+- **Data Type:** Transactional sales data  
+- **Population:** Motorcycle parts wholesale customers  
+- **Method:** SQL aggregation & business reporting  
+- **Outcome:** Net revenue insights by warehouse, product line, and month
 
 ---
 
@@ -72,17 +89,21 @@ Source: `sales` table (June–August 2021)
 
 ### Warehouse Performance
 
-- Central warehouse is the strongest revenue driver
-- Outperforms North and West across most product lines
+- The Central warehouse consistently outperforms North and West across nearly all product lines
+- This suggests a concentration of high-value wholesale activity in the Central warehouse
 
 ### Product Performance
 
-- Engine, Frame & body, and Suspension & traction generate the most revenue
+- Engine, Frame & body, and Suspension & traction are the highest revenue-generating product lines
 
 ### Seasonality
 
-- Revenue increases steadily from June → August
-- August is the peak month
+- Net revenue increases steadily from June to August
+- August represents the peak period, indicating clear seasonal demand patterns in wholesale activity
+
+### Overall Interpretation
+
+The analysis highlights clear structural differences in revenue distribution across warehouses and product categories, with noticeable seasonal growth trends.
 
 ---
 
